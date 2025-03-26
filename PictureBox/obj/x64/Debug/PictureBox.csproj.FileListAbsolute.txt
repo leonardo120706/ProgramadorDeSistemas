@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\bin\x64\Debug\PictureBox.exe.config
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\bin\x64\Debug\PictureBox.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\bin\x64\Debug\PictureBox.pdb
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.frmPictureBox.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\PictureBox\obj\x64\Debug\PictureBox.pdb
