@@ -1,0 +1,10 @@
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\bin\Debug\marizbidimensionl.exe.config
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\bin\Debug\marizbidimensionl.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\bin\Debug\marizbidimensionl.pdb
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.csproj.AssemblyReference.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.Form1.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.Properties.Resources.resources
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.csproj.GenerateResource.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.exe
+C:\Users\leonardo.goliveira15\source\programadordesistemas\marizbidimensionl\obj\Debug\marizbidimensionl.pdb
